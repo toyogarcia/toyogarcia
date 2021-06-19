@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toyogarcia
 - 👀 I’m interested in Data Analysis and Machine Learning
-- 🌱 I’m currently learning ML with Python
+- 🌱 I’m currently exploring Python libraries for ML
 - 💞️ I’m looking to collaborate on any ML/Data Analysis project
 - 📫 How to reach me: toyogarcia@gmail.com
 
