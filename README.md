@@ -1,9 +1,9 @@
 # Hola, soy Toyo
-## Desarrollador Oracle Senior | PL/SQL | Python | Cloud amplia experiencia
-desarrollando soluciones con Oracle Database en entornos de producción. Actualmente
-expandiendo habilidades en Python, Oracle Cloud y aplicacion de IA a datos relacionales. ###
-Tecnologias **Oracle/SQL:** `Oracle 19c` `PL/SQL` `SQL Avanzado` `Performance Tuning`
-`Particionado` `Performance tuning` `OCI` `Autonomous Database` **Desarrollo:** `Python`
+## Desarrollador Oracle Senior | PL/SQL | Python | Cloud 
+### Amplia experiencia desarrollando soluciones con Oracle Database en entornos de producción. Actualmente
+expandiendo habilidades en Python, Oracle Cloud y aplicacion de IA a datos relacionales. 
+### Tecnologias **Oracle/SQL:** `Oracle 19c` `PL/SQL` `SQL Avanzado` `Performance Tuning`
+`Particionado` `OCI` `Autonomous Database` **Desarrollo:** `Python`
 `python-oracledb` `pandas` `Git` **IA/Datos:** `Oracle ML` `Oracle Vector Search`
 `APIs LLM` `RAG` ### Repositorios Destacados -
 **[oracle-plsql-portfolio](https://github.com/usuario/oracle-plsql-portfolio)** Portfolio de
